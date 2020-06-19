@@ -1,7 +1,7 @@
 # Numpy
 Introduction to Numpy
 
-### Quickstart tutorial
+### [Quickstart tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 - Prerequisites
 - The Basics
   - An example
