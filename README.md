@@ -4,12 +4,12 @@ Introduction to Numpy
 ### Quickstart tutorial
 - Prerequisites
 - The Basics
-      An example
-      Array Creation
-      Printing Arrays
-      Basic Operations
-      Universal Functions
-      Indexing, Slicing and Iterating
+      - An example
+      - Array Creation
+      - Printing Arrays
+      - Basic Operations
+      - Universal Functions
+      - Indexing, Slicing and Iterating
 - Shape Manipulation
       Changing the shape of an array
       Stacking together different arrays
