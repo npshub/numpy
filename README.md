@@ -33,6 +33,18 @@ Introduction to Numpy
   - Vector Stacking
   - Histograms
   - Further reading
+  
+  
+### Numpy Basics 
+- Data types
+- Array creation
+- I/O with NumPy
+- Indexing
+- Broadcasting
+- Byte-swapping
+- Structured arrays
+- Writing custom array containers
+- Subclassing ndarray
 
 ### Example: Plot created using numpy meshgrid
 
