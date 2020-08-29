@@ -1,6 +1,8 @@
 # Numpy
 Introduction to Numpy
 
+![img](computing.png)
+
 ### [Quickstart tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 - Prerequisites
 - The Basics
